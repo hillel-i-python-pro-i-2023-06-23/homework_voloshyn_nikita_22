@@ -1,0 +1,2 @@
+https://scrapy.org/
+https://www.djangoproject.com/
